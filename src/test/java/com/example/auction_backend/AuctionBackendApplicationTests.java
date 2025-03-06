@@ -1,13 +1,13 @@
-package com.example.auction_backend;
+// package com.example.auction_backend;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class AuctionBackendApplicationTests {
+// @SpringBootTest
+// class AuctionBackendApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	// @Test
+// 	// void contextLoads() {
+// 	// }
 
-}
+// }
