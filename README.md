@@ -1,2 +1,2 @@
 # auction-backend
-Backend for auction platform written Java, Sprintboot
+Backend for auction platform written in Java, Springboot
